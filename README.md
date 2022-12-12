@@ -8,7 +8,6 @@ Veja [Colaboração](https://github.com/ONSBR/DadosAbertos/blob/main/COLLABORATI
 ## Tabela de conteúdo
 - [Dados Abertos](#dados-abertos)
     - [Jupter Notebooks](#jupter-notebooks)
-    - [Jupter Notebooks](#jupter-notebooks)
 
 ### Jupter Notebooks
 *Jupter Notebooks.*
