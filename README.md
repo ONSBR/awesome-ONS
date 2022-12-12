@@ -21,3 +21,9 @@ Veja [Colaboração](https://github.com/ONSBR/DadosAbertos/blob/main/COLLABORATI
 * [Reservatorios](http://www.ons.org.br/paginas/energia-agora/reservatorios) - Painel de reservatórios.
 * [CargaGeracao](http://www.ons.org.br/paginas/energia-agora/carga-e-geracao) - Painel de carga e geração.
 * [BalancoEnergia](http://www.ons.org.br/paginas/energia-agora/balanco-de-energia) - Painel de balanço de energia.
+
+
+### Portal de APIs
+*Portal de APIs do ONS abertas ao consumo.*
+
+* [PortalAPIs](https://sintegre.ons.org.br/Paginas/servicos/PortalAPI.aspx) - Portal de APIs
